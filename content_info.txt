@@ -1,0 +1,25 @@
+The repository contains the following data:
+
+- presentation video
+
+- presentation 
+
+- folder "20180616_32TNS" --> S2 Bands of image from 16/06/2018
+
+- folder "20210615_32TNS" --> S2 Bands of image from 15/06/2021
+
+- folder project_area --> polygon of the cut area of interest
+
+- folder "training samples" --> shapefile containing the 54 training samples used for the classification
+
+- 2018_2021_stacked_change_cut.tif --> stacked image with the 20 bands
+
+- 2018_2021_stacked_change_cut_Class.tif --> classified image with Random Forest algorithm
+
+- 2018_2021_stacked_change_cut_Class_3x3.tif --> classified image with Random Forest algorithm + application of majority filter - window 3x3
+
+- 2018_2021_stacked_change_cut_Class_5x5.tif --> classified image with Random Forest algorithm + application of majority filter - window 5x5
+
+- 2018_2021_stacked_change_cut_Class_3x3_se.tif --> classified image with Random Forest algorithm + application of majority filter - window 3x3 + Sieve algorithm
+
+- classification.R --> R script of Random Forest classification
