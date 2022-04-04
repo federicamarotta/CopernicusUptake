@@ -1,8 +1,6 @@
 The repository contains the following data:
 
-- presentation video
-
-- presentation 
+- pptx presentation 
 
 - folder "20180616_32TNS" --> S2 Bands of image from 16/06/2018
 
