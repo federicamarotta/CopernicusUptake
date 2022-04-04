@@ -10,8 +10,6 @@ The repository contains the following data:
 
 - folder "training samples" --> shapefile containing the 54 training samples used for the classification
 
-- 2018_2021_stacked_change_cut.tif --> stacked image with the 20 bands
-
 - 2018_2021_stacked_change_cut_Class.tif --> classified image with Random Forest algorithm
 
 - 2018_2021_stacked_change_cut_Class_3x3.tif --> classified image with Random Forest algorithm + application of majority filter - window 3x3
